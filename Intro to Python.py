@@ -8,4 +8,3 @@ j=20
 name="programmer"
 print(name)
 print(i+j)
-
